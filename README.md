@@ -1,0 +1,1 @@
+# bsp3d-shared-assets
